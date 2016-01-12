@@ -1,0 +1,46 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\GameDev\Csharp-Unity3D-JeuDeTirsSurCubes3D\FirstProject\ShootTheCube_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\GameDev\Csharp-Unity3D-JeuDeTirsSurCubes3D\FirstProject\ShootTheCube_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\GameDev\Csharp-Unity3D-JeuDeTirsSurCubes3D\FirstProject\ShootTheCube_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\GameDev\Csharp-Unity3D-JeuDeTirsSurCubes3D\FirstProject\ShootTheCube_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\GameDev\Csharp-Unity3D-JeuDeTirsSurCubes3D\FirstProject\ShootTheCube_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\GameDev\Csharp-Unity3D-JeuDeTirsSurCubes3D\FirstProject\ShootTheCube_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\GameDev\Csharp-Unity3D-JeuDeTirsSurCubes3D\FirstProject\ShootTheCube_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\GameDev\Csharp-Unity3D-JeuDeTirsSurCubes3D\FirstProject\ShootTheCube_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\GameDev\Csharp-Unity3D-JeuDeTirsSurCubes3D\FirstProject\ShootTheCube_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.035 seconds
+desktop: 1680x1050 60Hz; virtual: 1680x1050 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\GameDev\Csharp-Unity3D-JeuDeTirsSurCubes3D\FirstProject\ShootTheCube_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1ca88 -> priority: 1 
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at PlayerFire.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at PlayerFire.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at PlayerFire.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
