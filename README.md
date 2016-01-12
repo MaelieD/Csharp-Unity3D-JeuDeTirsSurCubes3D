@@ -17,7 +17,7 @@ A FAIRE : lier la caméra avec la souris.
 
 EXECUTION
 
-  1. Télécharger le zip du repository;
-  2. Dézipper le dossier;
-  3. Double-cliquer sur l'exécutable ShootTheCube.exe
-  4. Jouer !
+  1. Téléchargez le zip du repository;
+  2. Dézippez le dossier;
+  3. Double-cliquez sur l'exécutable ShootTheCube.exe
+  4. Jouez !
