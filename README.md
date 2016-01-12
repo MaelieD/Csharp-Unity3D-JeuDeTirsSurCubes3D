@@ -9,7 +9,7 @@ Moteur : Unity3D
 OS : Windows 8.1
 Logiciel : Visual Studio 2012
 
-PRINCIPE :
+PRINCIPE
 
 Vous êtes un parallélépipède blanc et votre objectif est de détruire les gros cubes violet sur une petite map fermée.
 Déplacez-vous avec ZQSD, tirez des boules rouges avec ESPACE et modifiez l'angle de tir avec la souris.
